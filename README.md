@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrabiea&show_icons=true&locale=en&layout=compact" alt="ahmedrabiea" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrabiea&show_icons=true&locale=en" alt="ahmedrabiea" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedRabiea&theme=radical&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
